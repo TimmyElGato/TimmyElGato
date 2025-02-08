@@ -13,5 +13,5 @@ Soy estudiante de **Ingeniería en Desarrollo de Software (IDS)**.
 ## Idiomas
 
 - 🇪🇸 Español (nativo)
-- 🇬🇧 Inglés
-- 🇩🇪 Alemán
+- 🇬🇧 Inglés (C1)
+- 🇩🇪 Alemán (Básico)
