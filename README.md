@@ -10,4 +10,8 @@ Soy estudiante de **Ingeniería en Desarrollo de Software (IDS)**.
 - ⚡ Sé usar **C#**.
 - ☕ Actualmente estoy aprendiendo **Java**.
 
+## Idiomas
 
+- 🇪🇸 Español (nativo)
+- 🇬🇧 Inglés
+- 🇩🇪 Alemán
