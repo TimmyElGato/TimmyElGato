@@ -1,16 +1,13 @@
-## Hi there 👋
+# Presentación
 
-<!--
-**TimmyElGato/TimmyElGato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Soy estudiante de **Ingeniería en Desarrollo de Software (IDS)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- 🐍 Sé usar **Python**.
+- ⚡ Sé usar **C#**.
+- ☕ Actualmente estoy aprendiendo **Java**.
+
+
